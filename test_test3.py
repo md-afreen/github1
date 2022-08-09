@@ -4,4 +4,4 @@ def func(x):
 
 @pytest.mark.deepak
 def test_answer():
-    assert func(3) == 10
+    assert func(3) == 4
